@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightBlue">#43b3e6</color>
+    <color name="shadowHeader">#d1d2d4</color>
+    <color name="separator">#939597</color>
+    <color name="fontTitle">#404041</color>
+    <color name="fontDesc">#808284</color>
+    <color name="background">#ffffff</color>
+    <color name="bInviteFriend">#f1f1f2</color>
+    <color name="rb_blue">#41b3e7</color>
+    <color name="black">#000000</color>
+</resources>

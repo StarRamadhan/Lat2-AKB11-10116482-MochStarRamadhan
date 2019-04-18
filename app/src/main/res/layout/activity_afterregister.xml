@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Nama  : Moch. Star Ramadhan-->
+<!--Nim   : 10116482-->
+<!--Kelas : AKB/IF - 11-->
+<!--Waktu Pengertaan Mulai Tanggal 18/04/2019-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:weightSum="5"
+    android:orientation="vertical"
+    android:background="@color/lightBlue">
+
+
+        <TextView
+            android:id="@+id/txtVerifyTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/at_title"
+            android:textColor="@color/background"
+            android:gravity="center"
+            android:layout_marginTop="140dp"
+            android:textSize="40sp"
+            android:fontFamily="@font/drugs"
+            />
+        <TextView
+            android:id="@+id/txtAtDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/at_desc"
+            android:textColor="@color/background"
+            android:layout_below="@+id/txtVerifyTitle"
+            android:gravity="center"
+            android:fontFamily="@font/drugs"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="15sp"/>
+        <Button
+            android:id="@+id/txtPass"
+            android:layout_below="@+id/txtAtDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:layout_marginTop="75dp"
+            android:textColor="@color/background"
+            android:background="@drawable/blue_button"
+            android:textAllCaps="true"
+            android:text="@string/btn_verify"
+            android:textSize="16sp"
+            android:fontFamily="@font/drugs"
+            android:textStyle="bold"
+            android:onClick="kePage4"
+            />
+</RelativeLayout>

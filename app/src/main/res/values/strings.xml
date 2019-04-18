@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BloodShare 10116482</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="or">Or</string>
+    <string name="btn_fb">connect with facebook</string>
+    <string name="ask_account">doesn\'t have account ? </string>
+    <string name="register">Register</string>
+    <string name="at_title">Almost There</string>
+    <string name="at_desc">Thank you for register with us. One more step, you need to check
+        your email to active your account</string>
+    <string name="btn_verify">VERIFY</string>
+    <string name="verify_title">Verify your Account</string>
+    <string name="verify_desc">We have send verification to your email</string>
+    <string name="verify_hint">enter verification code here...</string>
+    <string name="btn_send">Send</string>
+    <string name="ask_code">doesn\'t get the code ? </string>
+    <string name="btn_resend">Resend</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="address">Home Address</string>
+    <string name="location">Default Location</string>
+    <string name="agree">Agree With Term and Conditions</string>
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="reshus">
+        <item>Reshus</item>
+    </string-array>
+    <string-array name="jobs">
+        <item>Job</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string name="password2">Retype Password</string>
+</resources>
